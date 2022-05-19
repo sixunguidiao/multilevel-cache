@@ -31,3 +31,6 @@ build/
 
 ### VS Code ###
 .vscode/
+
+# Exclude maven wrapper
+!/.mvn/wrapper/maven-wrapper.jar
